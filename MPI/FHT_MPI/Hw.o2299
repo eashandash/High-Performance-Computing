@@ -1,0 +1,301 @@
+Process39 on cn07.local39: ---- Bye! ---- 
+Process35 on cn07.local35: ---- Bye! ---- 
+Process33 on cn07.local33: ---- Bye! ---- 
+Process34 on cn07.local34: ---- Bye! ---- 
+Process36 on cn07.local36: ---- Bye! ---- 
+Process37 on cn07.local37: ---- Bye! ---- 
+Process32 on cn07.local32: ---- Bye! ---- 
+Process38 on cn07.local38: ---- Bye! ---- 
+Process0 on cn08.localp_length 240
+p2_length 256
+bitlength 8
+what_power 8
+No. of workers: 32
+0 collecting done! - MPI_time: 0.00810152
+-- Input 0: 0,0 -- output: 28680
+-- Input 1: 1,0 -- output: 5643.96
+-- Input 2: 2,0 -- output: 2.23231
+-- Input 3: 3,0 -- output: -1863.44
+-- Input 4: 4,0 -- output: -2562.66
+-- Input 5: 5,0 -- output: -2647.48
+-- Input 6: 6,0 -- output: -2346.84
+-- Input 7: 7,0 -- output: -1808.08
+-- Input 8: 8,0 -- output: -1150.42
+-- Input 9: 9,0 -- output: -476.292
+-- Input 10: 10,0 -- output: 129.427
+-- Input 11: 11,0 -- output: 603.122
+-- Input 12: 12,0 -- output: 905.751
+-- Input 13: 13,0 -- output: 1024.11
+-- Input 14: 14,0 -- output: 969.484
+-- Input 15: 15,0 -- output: 773.737
+-- Input 16: 16,0 -- output: 483.281
+-- Input 17: 17,0 -- output: 151.768
+-- Input 18: 18,0 -- output: -167.549
+-- Input 19: 19,0 -- output: -428.816
+-- Input 20: 20,0 -- output: -599.067
+-- Input 21: 21,0 -- output: -661.571
+-- Input 22: 22,0 -- output: -616.752
+-- Input 23: 23,0 -- output: -480.68
+-- Input 24: 24,0 -- output: -281.521
+-- Input 25: 25,0 -- output: -54.5342
+-- Input 26: 26,0 -- output: 163.572
+-- Input 27: 27,0 -- output: 340.116
+-- Input 28: 28,0 -- output: 450.972
+-- Input 29: 29,0 -- output: 483.57
+-- Input 30: 30,0 -- output: 438.015
+-- Input 31: 31,0 -- output: 326.283
+-- Input 32: 32,0 -- output: 169.706
+-- Input 33: 33,0 -- output: -4.79204
+-- Input 34: 34,0 -- output: -169.075
+-- Input 35: 35,0 -- output: -298.133
+-- Input 36: 36,0 -- output: -373.719
+-- Input 37: 37,0 -- output: -386.779
+-- Input 38: 38,0 -- output: -338.384
+-- Input 39: 39,0 -- output: -239.065
+-- Input 40: 40,0 -- output: -106.754
+-- Input 41: 41,0 -- output: 36.3128
+-- Input 42: 42,0 -- output: 167.221
+-- Input 43: 43,0 -- output: 265.944
+-- Input 44: 44,0 -- output: 318.316
+-- Input 45: 45,0 -- output: 317.994
+-- Input 46: 46,0 -- output: 267.121
+-- Input 47: 47,0 -- output: 175.671
+-- Input 48: 48,0 -- output: 59.5927
+-- Input 49: 49,0 -- output: -61.8889
+-- Input 50: 50,0 -- output: -169.393
+-- Input 51: 51,0 -- output: -246.414
+-- Input 52: 52,0 -- output: -281.801
+-- Input 53: 53,0 -- output: -271.326
+-- Input 54: 54,0 -- output: -218.118
+-- Input 55: 55,0 -- output: -131.943
+-- Input 56: 56,0 -- output: -27.4628
+-- Input 57: 57,0 -- output: 78.2137
+-- Input 58: 58,0 -- output: 168.291
+-- Input 59: 59,0 -- output: 228.919
+-- Input 60: 60,0 -- output: 251.291
+-- Input 61: 61,0 -- output: 232.891
+-- Input 62: 62,0 -- output: 177.722
+-- Input 63: 63,0 -- output: 95.505
+-- Input 64: 64,0 -- output: -3.52429e-12
+-- Input 65: 65,0 -- output: -93.2691
+-- Input 66: 66,0 -- output: -169.508
+-- Input 67: 67,0 -- output: -216.974
+-- Input 68: 68,0 -- output: -228.762
+-- Input 69: 69,0 -- output: -203.786
+-- Input 70: 70,0 -- output: -146.825
+-- Input 71: 71,0 -- output: -67.6397
+-- Input 72: 72,0 -- output: 20.6818
+-- Input 73: 73,0 -- output: 103.864
+-- Input 74: 74,0 -- output: 168.734
+-- Input 75: 75,0 -- output: 205.289
+-- Input 76: 76,0 -- output: 208.223
+-- Input 77: 77,0 -- output: 177.683
+-- Input 78: 78,0 -- output: 119.146
+-- Input 79: 79,0 -- output: 42.4561
+-- Input 80: 80,0 -- output: -39.8186
+-- Input 81: 81,0 -- output: -114.428
+-- Input 82: 82,0 -- output: -169.561
+-- Input 83: 83,0 -- output: -196.699
+-- Input 84: 84,0 -- output: -191.925
+-- Input 85: 85,0 -- output: -156.476
+-- Input 86: 86,0 -- output: -96.4673
+-- Input 87: 87,0 -- output: -21.8534
+-- Input 88: 88,0 -- output: 55.2158
+-- Input 89: 89,0 -- output: 122.361
+-- Input 90: 90,0 -- output: 168.949
+-- Input 91: 91,0 -- output: 187.771
+-- Input 92: 92,0 -- output: 176.144
+-- Input 93: 93,0 -- output: 136.291
+-- Input 94: 94,0 -- output: 74.9262
+-- Input 95: 95,0 -- output: 2.13005
+-- Input 96: 96,0 -- output: -70.2944
+-- Input 97: 97,0 -- output: -130.727
+-- Input 98: 98,0 -- output: -169.587
+-- Input 99: 99,0 -- output: -180.841
+-- Input 100: 100,0 -- output: -162.937
+-- Input 101: 101,0 -- output: -119.01
+-- Input 102: 102,0 -- output: -56.3405
+-- Input 103: 103,0 -- output: 14.8495
+-- Input 104: 104,0 -- output: 83.0524
+-- Input 105: 105,0 -- output: 137.329
+-- Input 106: 106,0 -- output: 169.056
+-- Input 107: 107,0 -- output: 173.288
+-- Input 108: 108,0 -- output: 149.527
+-- Input 109: 109,0 -- output: 101.771
+-- Input 110: 110,0 -- output: 37.8461
+-- Input 111: 111,0 -- output: -31.8712
+-- Input 112: 112,0 -- output: -96.1305
+-- Input 113: 113,0 -- output: -144.617
+-- Input 114: 114,0 -- output: -169.599
+-- Input 115: 115,0 -- output: -167.158
+-- Input 116: 116,0 -- output: -137.8
+-- Input 117: 117,0 -- output: -86.3547
+-- Input 118: 118,0 -- output: -21.185
+-- Input 119: 119,0 -- output: 47.1661
+-- Input 120: 120,0 -- output: 107.676
+-- Input 121: 121,0 -- output: 150.614
+-- Input 122: 122,0 -- output: 169.099
+-- Input 123: 123,0 -- output: 160.199
+-- Input 124: 124,0 -- output: 125.394
+-- Input 125: 125,0 -- output: 70.3325
+-- Input 126: 126,0 -- output: 3.91589
+-- Input 127: 127,0 -- output: -63.1341
+-- Input 128: 128,0 -- output: -120
+-- Input 129: 129,0 -- output: -157.508
+-- Input 130: 130,0 -- output: -169.602
+-- Input 131: 131,0 -- output: -154.319
+-- Input 132: 132,0 -- output: -114.105
+-- Input 133: 133,0 -- output: -55.4262
+-- Input 134: 134,0 -- output: 12.2669
+-- Input 135: 135,0 -- output: 78.0571
+-- Input 136: 136,0 -- output: 131.314
+-- Input 137: 137,0 -- output: 163.406
+-- Input 138: 138,0 -- output: 169.093
+-- Input 139: 139,0 -- output: 147.38
+-- Input 140: 140,0 -- output: 101.689
+-- Input 141: 141,0 -- output: 39.3209
+-- Input 142: 142,0 -- output: -29.7042
+-- Input 143: 143,0 -- output: -94.2538
+-- Input 144: 144,0 -- output: -143.869
+-- Input 145: 145,0 -- output: -170.456
+-- Input 146: 146,0 -- output: -169.597
+-- Input 147: 147,0 -- output: -141.284
+-- Input 148: 148,0 -- output: -89.9416
+-- Input 149: 149,0 -- output: -23.7418
+-- Input 150: 150,0 -- output: 46.6947
+-- Input 151: 151,0 -- output: 109.993
+-- Input 152: 152,0 -- output: 155.856
+-- Input 153: 153,0 -- output: 176.727
+-- Input 154: 154,0 -- output: 169.036
+-- Input 155: 155,0 -- output: 133.801
+-- Input 156: 156,0 -- output: 76.4993
+-- Input 157: 157,0 -- output: 6.22543
+-- Input 158: 158,0 -- output: -65.7499
+-- Input 159: 159,0 -- output: -127.777
+-- Input 160: 160,0 -- output: -169.706
+-- Input 161: 161,0 -- output: -184.536
+-- Input 162: 162,0 -- output: -169.582
+-- Input 163: 163,0 -- output: -126.949
+-- Input 164: 164,0 -- output: -63.2442
+-- Input 165: 165,0 -- output: 11.4378
+-- Input 166: 166,0 -- output: 85.1093
+-- Input 167: 167,0 -- output: 145.801
+-- Input 168: 168,0 -- output: 183.498
+-- Input 169: 169,0 -- output: 191.781
+-- Input 170: 170,0 -- output: 168.908
+-- Input 171: 171,0 -- output: 118.165
+-- Input 172: 172,0 -- output: 47.3951
+-- Input 173: 173,0 -- output: -32.1977
+-- Input 174: 174,0 -- output: -107.815
+-- Input 175: 175,0 -- output: -167.108
+-- Input 176: 176,0 -- output: -200.181
+-- Input 177: 177,0 -- output: -201.231
+-- Input 178: 178,0 -- output: -169.551
+-- Input 179: 179,0 -- output: -109.73
+-- Input 180: 180,0 -- output: -31.0019
+-- Input 181: 181,0 -- output: 54.1669
+-- Input 182: 182,0 -- output: 132.037
+-- Input 183: 183,0 -- output: 189.796
+-- Input 184: 184,0 -- output: 217.645
+-- Input 185: 185,0 -- output: 210.448
+-- Input 186: 186,0 -- output: 168.653
+-- Input 187: 187,0 -- output: 98.3344
+-- Input 188: 188,0 -- output: 10.3276
+-- Input 189: 189,0 -- output: -81.4224
+-- Input 190: 190,0 -- output: -162.05
+-- Input 191: 191,0 -- output: -218.153
+-- Input 192: 192,0 -- output: -240
+-- Input 193: 193,0 -- output: -223.188
+-- Input 194: 194,0 -- output: -169.488
+-- Input 195: 195,0 -- output: -86.7116
+-- Input 196: 196,0 -- output: 12.3996
+-- Input 197: 197,0 -- output: 112.109
+-- Input 198: 198,0 -- output: 196.15
+-- Input 199: 199,0 -- output: 250.35
+-- Input 200: 200,0 -- output: 264.978
+-- Input 201: 201,0 -- output: 236.455
+-- Input 202: 202,0 -- output: 168.111
+-- Input 203: 203,0 -- output: 69.858
+-- Input 204: 204,0 -- output: -43.2103
+-- Input 205: 205,0 -- output: -153.096
+-- Input 206: 206,0 -- output: -241.717
+-- Input 207: 207,0 -- output: -293.83
+-- Input 208: 208,0 -- output: -299.593
+-- Input 209: 209,0 -- output: -256.355
+-- Input 210: 210,0 -- output: -169.344
+-- Input 211: 211,0 -- output: -51.1124
+-- Input 212: 212,0 -- output: 80.2079
+-- Input 213: 213,0 -- output: 203.621
+-- Input 214: 214,0 -- output: 298.543
+-- Input 215: 215,0 -- output: 348.151
+-- Input 216: 216,0 -- output: 342.254
+-- Input 217: 217,0 -- output: 279.241
+-- Input 218: 218,0 -- output: 166.72
+-- Input 219: 219,0 -- output: 20.7284
+-- Input 220: 220,0 -- output: -136.454
+-- Input 221: 221,0 -- output: -279.584
+-- Input 222: 222,0 -- output: -384.372
+-- Input 223: 223,0 -- output: -431.44
+-- Input 224: 224,0 -- output: -409.706
+-- Input 225: 225,0 -- output: -318.628
+-- Input 226: 226,0 -- output: -168.906
+-- Input 227: 227,0 -- output: 18.5592
+-- Input 228: 228,0 -- output: 215.378
+-- Input 229: 229,0 -- output: 389.72
+-- Input 230: 230,0 -- output: 511.166
+-- Input 231: 231,0 -- output: 555.632
+-- Input 232: 232,0 -- output: 509.653
+-- Input 233: 233,0 -- output: 373.301
+-- Input 234: 234,0 -- output: 161.221
+-- Input 235: 235,0 -- output: -98.4897
+-- Input 236: 236,0 -- output: -367.536
+-- Input 237: 237,0 -- output: -602.475
+-- Input 238: 238,0 -- output: -760.941
+-- Input 239: 239,0 -- output: -808.224
+-- Input 240: 0,0 -- output: -723.281
+-- Input 241: 0,0 -- output: -503.311
+-- Input 242: 0,0 -- output: -166.163
+-- Input 243: 0,0 -- output: 249.873
+-- Input 244: 0,0 -- output: 688.974
+-- Input 245: 0,0 -- output: 1083.13
+-- Input 246: 0,0 -- output: 1359.25
+-- Input 247: 0,0 -- output: 1447.03
+-- Input 248: 0,0 -- output: 1286.34
+-- Input 249: 0,0 -- output: 832.602
+-- Input 250: 0,0 -- output: 58.1791
+-- Input 251: 0,0 -- output: -1053.65
+-- Input 252: 0,0 -- output: -2530.33
+-- Input 253: 0,0 -- output: -4476.27
+-- Input 254: 0,0 -- output: -7328.14
+-- Input 255: 0,0 -- output: -13602.2
+
+Process3 on cn08.local
+Process9 on cn08.local
+Process18 on cn08.local
+Process1 on cn08.local
+Process11 on cn08.local
+Process4 on cn08.local
+Process17 on cn08.local
+Process16 on cn08.local
+Process7 on cn08.local
+Process13 on cn08.local
+Process19 on cn08.local
+Process5 on cn08.local
+Process14 on cn08.local
+Process15 on cn08.local
+Process10 on cn08.local
+Process6 on cn08.local
+Process8 on cn08.local
+Process12 on cn08.local
+Process2 on cn08.local
+Process24 on cn07.local
+Process21 on cn07.local
+Process22 on cn07.local
+Process25 on cn07.local
+Process26 on cn07.local
+Process27 on cn07.local
+Process30 on cn07.local
+Process31 on cn07.local
+Process20 on cn07.local
+-------------------------------------------------------
+
